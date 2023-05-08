@@ -1,6 +1,5 @@
 *{
     box-sizing: border-box;
-
 }
 body{
     background-color: #131720;
@@ -58,3 +57,9 @@ input{
     padding: 20px;
   
 }
+section{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 4rem;
+}
+
